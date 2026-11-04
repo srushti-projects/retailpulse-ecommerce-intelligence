@@ -1,0 +1,249 @@
+product_id,product_category_name,base_price_usd,product_weight_g,product_length_cm,product_height_cm,product_width_cm
+PROD-0001,Electronics,617.43,2146,72,44,26
+PROD-0002,Electronics,577.89,3927,71,14,39
+PROD-0003,Electronics,759.63,1382,46,45,56
+PROD-0004,Electronics,415.64,2307,30,28,57
+PROD-0005,Electronics,269.89,1379,15,34,36
+PROD-0006,Electronics,925.15,2059,61,13,50
+PROD-0007,Electronics,585.29,3649,63,34,56
+PROD-0008,Electronics,679.7,3997,56,26,30
+PROD-0009,Electronics,882.1,4541,36,20,23
+PROD-0010,Electronics,926.96,7966,56,34,45
+PROD-0011,Electronics,1069.32,3270,49,18,35
+PROD-0012,Electronics,384.26,5543,67,24,59
+PROD-0013,Electronics,1076.61,1833,37,26,45
+PROD-0014,Electronics,1095.43,7876,76,32,21
+PROD-0015,Electronics,1146.04,1891,59,41,52
+PROD-0016,Electronics,413.72,5775,29,46,35
+PROD-0017,Electronics,796.32,1434,62,25,39
+PROD-0018,Electronics,483.41,6447,72,25,49
+PROD-0019,Electronics,1136.37,6223,14,48,16
+PROD-0020,Electronics,997.61,271,16,26,15
+PROD-0021,Electronics,547.63,1863,29,18,29
+PROD-0022,Electronics,1048.64,7648,50,42,38
+PROD-0023,Electronics,701.33,2573,48,11,45
+PROD-0024,Electronics,401.82,1537,63,12,44
+PROD-0025,Electronics,1114.72,4801,80,45,40
+PROD-0026,Electronics,914.87,7146,41,12,52
+PROD-0027,Electronics,1148.13,995,15,13,34
+PROD-0028,Electronics,699.17,6484,12,42,54
+PROD-0029,Electronics,1188.38,3812,33,33,11
+PROD-0030,Electronics,1171.78,4843,54,26,15
+PROD-0031,Electronics,1092.17,1305,48,48,35
+PROD-0032,Electronics,1120.93,7859,35,45,30
+PROD-0033,Electronics,527.73,6643,20,27,48
+PROD-0034,Electronics,1184.39,5294,63,15,33
+PROD-0035,Electronics,1058.69,2495,76,6,41
+PROD-0036,Electronics,552.64,5519,40,49,29
+PROD-0037,Electronics,499.96,2964,15,22,57
+PROD-0038,Electronics,1195.34,5601,20,26,45
+PROD-0039,Electronics,279.81,7790,11,41,11
+PROD-0040,Electronics,537.57,4051,58,29,12
+PROD-0041,Electronics,910.52,3273,52,28,42
+PROD-0042,Electronics,1060.95,3535,53,13,32
+PROD-0043,Electronics,933.16,4204,46,22,15
+PROD-0044,Electronics,1117.69,894,50,37,17
+PROD-0045,Electronics,271.86,6442,23,20,14
+PROD-0046,Electronics,418.25,4885,40,10,14
+PROD-0047,Electronics,259.16,6810,53,44,14
+PROD-0048,Electronics,398.43,7338,68,45,31
+PROD-0049,Electronics,996.83,1199,17,50,18
+PROD-0050,Electronics,439.55,864,33,10,55
+PROD-0051,Electronics,1153.82,6684,39,18,13
+PROD-0052,Electronics,931.13,5323,77,17,40
+PROD-0053,Electronics,1026.67,4257,33,35,28
+PROD-0054,Electronics,944.99,7252,17,33,21
+PROD-0055,Electronics,732.21,1819,43,14,44
+PROD-0056,Electronics,796.66,1215,19,17,21
+PROD-0057,Electronics,1056.19,2065,30,30,50
+PROD-0058,Electronics,1044.24,3577,74,45,28
+PROD-0059,Electronics,457.35,3024,40,38,10
+PROD-0060,Electronics,872.1,2261,46,15,14
+PROD-0061,Electronics,308.54,7594,17,44,58
+PROD-0062,Electronics,1026.82,6462,67,5,57
+PROD-0063,Computers & Laptops,1479.2,6519,56,49,53
+PROD-0064,Computers & Laptops,1368.81,4862,43,25,38
+PROD-0065,Computers & Laptops,972.98,3234,73,24,58
+PROD-0066,Computers & Laptops,1182.54,6302,34,19,47
+PROD-0067,Computers & Laptops,672.88,3556,69,34,30
+PROD-0068,Computers & Laptops,1877.51,3503,69,34,38
+PROD-0069,Computers & Laptops,644.3,3358,63,6,18
+PROD-0070,Computers & Laptops,1661.22,7329,29,30,33
+PROD-0071,Computers & Laptops,422.32,5621,32,14,47
+PROD-0072,Computers & Laptops,1913.67,334,60,35,19
+PROD-0073,Computers & Laptops,833.42,4274,60,15,29
+PROD-0074,Computers & Laptops,1727.65,2474,39,17,41
+PROD-0075,Computers & Laptops,1370.92,3764,30,36,52
+PROD-0076,Computers & Laptops,495.62,748,51,50,40
+PROD-0077,Computers & Laptops,1372.51,4449,73,18,36
+PROD-0078,Computers & Laptops,1184.81,5373,30,26,50
+PROD-0079,Computers & Laptops,896.98,5210,25,43,18
+PROD-0080,Computers & Laptops,1247.42,3258,26,28,46
+PROD-0081,Computers & Laptops,1952.69,3862,57,31,25
+PROD-0082,Computers & Laptops,735.13,2112,50,45,40
+PROD-0083,Computers & Laptops,1658.89,4928,52,49,22
+PROD-0084,Computers & Laptops,1842.97,6602,39,50,47
+PROD-0085,Computers & Laptops,1375.02,2240,72,41,40
+PROD-0086,Computers & Laptops,1824.89,7414,22,29,58
+PROD-0087,Computers & Laptops,637.37,4535,72,34,48
+PROD-0088,Computers & Laptops,1840.69,6162,44,9,38
+PROD-0089,Computers & Laptops,1023.32,6507,45,50,19
+PROD-0090,Computers & Laptops,982.05,4080,41,19,50
+PROD-0091,Computers & Laptops,404.89,5284,71,40,19
+PROD-0092,Computers & Laptops,1653.89,4170,50,43,44
+PROD-0093,Computers & Laptops,720.09,1741,25,23,56
+PROD-0094,Computers & Laptops,496.9,4488,74,23,25
+PROD-0095,Computers & Laptops,1665.13,6905,11,24,26
+PROD-0096,Computers & Laptops,726.78,436,63,10,33
+PROD-0097,Computers & Laptops,1143.9,1409,67,45,34
+PROD-0098,Computers & Laptops,1288.42,6413,50,11,27
+PROD-0099,Computers & Laptops,1129.51,5168,68,23,20
+PROD-0100,Fashion & Apparel,96.24,338,25,8,30
+PROD-0101,Fashion & Apparel,91.83,2782,58,40,11
+PROD-0102,Fashion & Apparel,101.76,3440,32,25,49
+PROD-0103,Fashion & Apparel,128.69,2517,51,41,58
+PROD-0104,Fashion & Apparel,93.91,657,26,36,14
+PROD-0105,Fashion & Apparel,140.5,1037,76,15,55
+PROD-0106,Fashion & Apparel,50.55,3125,53,10,36
+PROD-0107,Fashion & Apparel,64.66,3481,79,8,43
+PROD-0108,Fashion & Apparel,74.13,5890,29,40,15
+PROD-0109,Fashion & Apparel,125.87,1144,43,19,25
+PROD-0110,Fashion & Apparel,27.35,398,16,46,54
+PROD-0111,Fashion & Apparel,49.32,1994,39,14,18
+PROD-0112,Fashion & Apparel,85.08,6392,60,6,42
+PROD-0113,Fashion & Apparel,119.52,5685,63,40,14
+PROD-0114,Fashion & Apparel,25.22,1910,39,42,41
+PROD-0115,Fashion & Apparel,20.93,4964,57,37,20
+PROD-0116,Fashion & Apparel,71.63,260,46,22,45
+PROD-0117,Fashion & Apparel,68.66,7038,35,43,26
+PROD-0118,Fashion & Apparel,63.48,2332,60,12,51
+PROD-0119,Fashion & Apparel,57.1,5142,75,30,23
+PROD-0120,Fashion & Apparel,44.03,6791,23,18,22
+PROD-0121,Fashion & Apparel,118.77,2646,37,42,29
+PROD-0122,Fashion & Apparel,66.92,5329,39,41,26
+PROD-0123,Fashion & Apparel,48.18,301,37,16,31
+PROD-0124,Fashion & Apparel,46.83,3383,51,34,35
+PROD-0125,Fashion & Apparel,98.24,4227,71,40,48
+PROD-0126,Fashion & Apparel,57.09,7223,41,9,49
+PROD-0127,Fashion & Apparel,33.94,455,16,5,27
+PROD-0128,Fashion & Apparel,140.92,3324,30,11,13
+PROD-0129,Fashion & Apparel,67.85,3666,57,9,27
+PROD-0130,Fashion & Apparel,74.27,6511,14,12,29
+PROD-0131,Fashion & Apparel,38.44,7836,36,12,50
+PROD-0132,Fashion & Apparel,116.75,448,70,16,10
+PROD-0133,Fashion & Apparel,34.64,3929,44,22,11
+PROD-0134,Fashion & Apparel,111.37,6191,29,18,14
+PROD-0135,Fashion & Apparel,71.68,504,73,32,39
+PROD-0136,Fashion & Apparel,73.62,4924,15,47,14
+PROD-0137,Fashion & Apparel,144.73,6015,46,35,22
+PROD-0138,Fashion & Apparel,124.25,2427,34,20,54
+PROD-0139,Fashion & Apparel,78.24,5526,15,41,37
+PROD-0140,Fashion & Apparel,92.66,6687,39,50,57
+PROD-0141,Fashion & Apparel,26.15,5099,57,34,40
+PROD-0142,Fashion & Apparel,90.8,7587,57,40,44
+PROD-0143,Fashion & Apparel,38.94,3040,62,16,47
+PROD-0144,Fashion & Apparel,72.23,3046,47,14,53
+PROD-0145,Fashion & Apparel,117.72,4642,62,28,37
+PROD-0146,Fashion & Apparel,31.24,1327,52,27,51
+PROD-0147,Fashion & Apparel,80.65,7259,31,7,31
+PROD-0148,Fashion & Apparel,85.83,5320,28,43,31
+PROD-0149,Fashion & Apparel,90.23,1506,27,18,54
+PROD-0150,Home & Kitchen,137.01,7414,24,37,44
+PROD-0151,Home & Kitchen,41.33,233,42,40,52
+PROD-0152,Home & Kitchen,284.42,5803,52,36,17
+PROD-0153,Home & Kitchen,117.88,3258,80,30,43
+PROD-0154,Home & Kitchen,207.36,4926,54,31,54
+PROD-0155,Home & Kitchen,232.92,5446,68,14,54
+PROD-0156,Home & Kitchen,271.71,204,74,11,41
+PROD-0157,Home & Kitchen,68.98,7983,49,20,58
+PROD-0158,Home & Kitchen,139.65,4639,22,17,11
+PROD-0159,Home & Kitchen,34.38,1896,33,48,14
+PROD-0160,Home & Kitchen,48.1,1174,64,27,52
+PROD-0161,Home & Kitchen,138.81,2659,53,29,33
+PROD-0162,Home & Kitchen,86.28,5030,71,45,49
+PROD-0163,Home & Kitchen,190.2,458,73,25,32
+PROD-0164,Home & Kitchen,38.38,7254,59,39,59
+PROD-0165,Home & Kitchen,56.46,5280,54,48,41
+PROD-0166,Home & Kitchen,298.55,4193,21,35,26
+PROD-0167,Home & Kitchen,176.81,6133,22,34,34
+PROD-0168,Home & Kitchen,232.24,4044,14,25,29
+PROD-0169,Home & Kitchen,179.21,3896,37,44,36
+PROD-0170,Home & Kitchen,55.64,5061,13,37,38
+PROD-0171,Home & Kitchen,48.66,2450,59,39,51
+PROD-0172,Home & Kitchen,225.57,1163,76,36,21
+PROD-0173,Home & Kitchen,273.61,1533,15,23,48
+PROD-0174,Home & Kitchen,119.48,1468,19,17,40
+PROD-0175,Home & Kitchen,161.29,6554,32,29,12
+PROD-0176,Home & Kitchen,111.61,7290,73,19,55
+PROD-0177,Home & Kitchen,150.06,7668,24,11,20
+PROD-0178,Home & Kitchen,67.59,7955,13,33,41
+PROD-0179,Home & Kitchen,129.0,368,77,49,33
+PROD-0180,Home & Kitchen,201.4,4080,14,22,37
+PROD-0181,Home & Kitchen,180.47,733,21,21,52
+PROD-0182,Home & Kitchen,126.56,7730,41,13,17
+PROD-0183,Home & Kitchen,36.51,1730,35,33,52
+PROD-0184,Home & Kitchen,299.06,2354,71,9,60
+PROD-0185,Home & Kitchen,207.19,1149,15,19,22
+PROD-0186,Home & Kitchen,69.79,5946,60,5,33
+PROD-0187,Beauty & Personal Care,19.5,1123,77,47,27
+PROD-0188,Beauty & Personal Care,58.92,7412,27,25,25
+PROD-0189,Beauty & Personal Care,79.54,1745,70,35,40
+PROD-0190,Beauty & Personal Care,31.06,4730,79,9,19
+PROD-0191,Beauty & Personal Care,65.03,1391,18,35,42
+PROD-0192,Beauty & Personal Care,89.24,1549,41,45,58
+PROD-0193,Beauty & Personal Care,46.01,7880,38,21,36
+PROD-0194,Beauty & Personal Care,19.48,7332,51,30,11
+PROD-0195,Beauty & Personal Care,29.45,3261,60,33,48
+PROD-0196,Beauty & Personal Care,77.73,7634,26,35,49
+PROD-0197,Beauty & Personal Care,86.2,3530,30,20,48
+PROD-0198,Beauty & Personal Care,54.09,814,65,43,11
+PROD-0199,Beauty & Personal Care,46.3,5971,28,46,12
+PROD-0200,Beauty & Personal Care,42.71,4005,53,24,44
+PROD-0201,Beauty & Personal Care,60.4,7207,70,37,41
+PROD-0202,Beauty & Personal Care,43.96,5839,27,35,31
+PROD-0203,Beauty & Personal Care,21.82,3005,78,38,49
+PROD-0204,Beauty & Personal Care,62.35,2397,44,23,48
+PROD-0205,Beauty & Personal Care,53.51,7620,51,20,46
+PROD-0206,Beauty & Personal Care,29.34,1771,52,38,53
+PROD-0207,Beauty & Personal Care,45.87,3672,34,44,60
+PROD-0208,Beauty & Personal Care,25.45,2616,34,48,53
+PROD-0209,Beauty & Personal Care,42.11,2830,36,34,47
+PROD-0210,Beauty & Personal Care,54.01,6120,47,45,25
+PROD-0211,Beauty & Personal Care,30.43,7002,53,16,51
+PROD-0212,Sports & Fitness,207.15,3408,71,50,27
+PROD-0213,Sports & Fitness,234.81,2996,28,21,48
+PROD-0214,Sports & Fitness,41.21,3284,80,30,10
+PROD-0215,Sports & Fitness,39.97,2287,73,34,45
+PROD-0216,Sports & Fitness,156.31,4848,63,17,27
+PROD-0217,Sports & Fitness,36.47,4210,23,35,37
+PROD-0218,Sports & Fitness,112.05,1683,25,28,58
+PROD-0219,Sports & Fitness,205.29,7140,18,22,16
+PROD-0220,Sports & Fitness,148.41,6621,22,48,37
+PROD-0221,Sports & Fitness,71.1,4841,17,5,17
+PROD-0222,Sports & Fitness,100.96,2470,46,32,25
+PROD-0223,Sports & Fitness,76.86,4874,44,40,32
+PROD-0224,Sports & Fitness,214.17,4735,50,19,20
+PROD-0225,Sports & Fitness,206.28,1864,79,44,11
+PROD-0226,Sports & Fitness,239.76,6265,44,36,17
+PROD-0227,Sports & Fitness,46.53,2010,40,34,49
+PROD-0228,Sports & Fitness,62.27,2005,45,11,10
+PROD-0229,Sports & Fitness,78.72,4948,59,33,23
+PROD-0230,Sports & Fitness,77.24,3546,66,33,19
+PROD-0231,Sports & Fitness,191.31,5238,58,6,44
+PROD-0232,Books & Stationery,40.6,5715,72,32,60
+PROD-0233,Books & Stationery,45.01,369,73,37,49
+PROD-0234,Books & Stationery,25.52,1883,57,14,55
+PROD-0235,Books & Stationery,13.09,5797,58,15,60
+PROD-0236,Books & Stationery,26.16,3093,61,22,25
+PROD-0237,Books & Stationery,38.6,3308,70,6,53
+PROD-0238,Books & Stationery,47.41,5914,18,33,55
+PROD-0239,Books & Stationery,42.0,3027,56,29,11
+PROD-0240,Books & Stationery,29.64,7648,64,10,37
+PROD-0241,Books & Stationery,20.2,3203,43,35,20
+PROD-0242,Books & Stationery,16.74,5483,76,43,43
+PROD-0243,Books & Stationery,42.41,3324,56,8,58
+PROD-0244,Books & Stationery,19.14,1500,21,44,54
+PROD-0245,Books & Stationery,32.11,4502,42,33,19
+PROD-0246,Books & Stationery,21.73,2481,33,19,36
+PROD-0247,Books & Stationery,22.46,2099,21,44,13
+PROD-0248,Books & Stationery,32.9,7342,32,23,45

@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+
+# Power BI temp files
+*.tmp
+
+# SQLite DB (optional: can be committed or recreated via load_base_data.py)
+# data/retailpulse.db
