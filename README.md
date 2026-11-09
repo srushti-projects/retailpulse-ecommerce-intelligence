@@ -136,3 +136,4 @@ Tracking retention decay across 2023 cohorts revealed that 30-day retention slip
 
 ## 📄 License
 This project is open-source under the MIT License.
+

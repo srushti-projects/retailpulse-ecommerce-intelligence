@@ -120,3 +120,4 @@ In Power BI Desktop:
 3. Create all your new measures inside this table.
 4. Delete the empty default `Column1`.
 5. Power BI will automatically promote `_Measures` with a calculator icon to the top of your field list!
+

@@ -98,6 +98,16 @@ class OrderStreamProducer:
         """, item_records)
         
         self.conn.commit()
+
+        # Also append to fact_orders.csv for instant Power BI 1-click Refresh!
+        csv_path = os.path.join(DATA_DIR, "fact_orders.csv")
+        try:
+            with open(csv_path, "a", encoding="utf-8") as f:
+                # Format: order_id,customer_id,order_status,order_purchase_timestamp,order_approved_at,order_delivered_carrier_date,order_delivered_customer_date,order_estimated_delivery_date,currency,fx_rate_to_usd,total_order_value_usd
+                row_str = f"{order_id},{cust_id},{status},{timestamp_str},{timestamp_str},,,{estimated_delivery},{currency},{fx_rate},{round(total_usd, 2)}\n"
+                f.write(row_str)
+        except Exception as e:
+            pass
         
         # Log event to terminal
         print(f"[{now.strftime('%H:%M:%S')}] [LIVE EVENT] {order_id} | Customer: {cust_id} ({cust_city}) | "

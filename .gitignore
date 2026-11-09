@@ -6,8 +6,11 @@ __pycache__/
 .venv/
 venv/
 
-# Power BI temp files
+# Power BI temp and locked files
 *.tmp
+# Keep pbix ignored while open, or un-ignore when Power BI is closed
+# *.pbix
 
 # SQLite DB (optional: can be committed or recreated via load_base_data.py)
 # data/retailpulse.db
+
