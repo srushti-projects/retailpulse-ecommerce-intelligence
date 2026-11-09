@@ -1,0 +1,5 @@
+payment_type,total_orders_attempted,total_attempted_gmv_usd,completed_orders,cancelled_orders,cancellation_rate_%,lost_gmv_usd
+debit_card,2528,1912262.47,1866,516,20.41,411280.01
+voucher,1291,1051716.0,1118,55,4.26,45965.58
+upi,7377,5847715.63,6473,287,3.89,226793.54
+credit_card,13804,10706042.15,12140,534,3.87,417915.45
